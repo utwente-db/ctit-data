@@ -1,0 +1,4 @@
+{ "organization": "UT", "color": "black", "address": { "street": "drienerlolaan", "number": 5, "city": "Enschede" }, "attractions": [ "torentje", "hadoop cluster", "vestingbar" ] }
+{ "organization": "CBS", "color": "blue", "address": { "street": "CBS-weg", "number": 11, "city": "Heerlen" }, "attractions": [ "mijnmuseum", "spark cluster" ] }
+{ "organization": "RU", "color": "red", "address": { "street": "Comeniuslaan", "number": 4, "city": "Nijmegen" }, "attractions": [ "doornroosje" ] }
+{ "organization": "TUD", "color": "blue", "address": { "street": "Postbus", "number": 5, "city": "Delft" }, "attractions": [ "nice cluster" ] }
